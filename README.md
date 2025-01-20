@@ -30,7 +30,7 @@ mv ~/.config/nvim ~/.config/nvim.bak
 
 2. **Clone configuration**
 ```bash
-git clone <your-repo> ~/.config/nvim
+git clone https://github.com/arjunastrw/nvim-config ~/.config/nvim
 ```
 
 3. **Start Neovim** 
